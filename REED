@@ -6,3 +6,20 @@
  - 개발도구 : 이클립스, workbench, Spring 5.2.5.RELEASE
  - DB : mySQL
  - WAS : apache Tomcat 9.0
+
+○ 커리큘럼
+
+8월 7일
+ - 환경 구현(Spring legacy project)
+
+8월 8~9일
+ - 회원가입 / 로그인 구현
+
+8월 10일~
+ - 관리자 화면 구현
+  * 회원관리
+  * 메뉴관리
+  * 카테고리 관리
+  * 게시판 관리
+  * 공통코드 관리
+  * 통계 관리
